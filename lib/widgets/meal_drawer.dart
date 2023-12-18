@@ -78,7 +78,7 @@ class MealDrawer extends StatelessWidget {
                   ),
             ),
             onTap: () {
-              onSelectScreen('fliters');
+              onSelectScreen('filters');
             },
           ),
         ],
